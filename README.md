@@ -4,3 +4,7 @@
 * [jq](https://github.com/stedolan/jq) - command-line JSON processor
 * [gist](https://github.com/defunkt/gist) - command-line gister
 * [pandoc](http://pandoc.org/) - universal document conversion
+
+## Awesome Vim Plugins
+
+* [fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper
